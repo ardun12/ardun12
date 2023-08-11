@@ -1,7 +1,10 @@
 ### Hi there 👋
-My name is Artem Dunaev and I am Data Scientist with high education in medicine.
 
-## My Skills 🔭
+## :hospital: Professional Summary
+
+My name is Artem Dunaev and I am a data science specialist with a background in medicine, seeking projects that allow me to apply my knowledge and make a significant impact. With 5 years of experience as a medical doctor and recent involvement in various AI-related hackathons, I possess a unique blend of medical expertise and data science skills.
+
+## My Skills :computer:
 
 | <!-- -->         | <!-- -->          | <!-- -->    | <!-- -->    |
 |:----------------:|:-----------------:|:-----------:|:-----------:|
@@ -10,6 +13,41 @@ My name is Artem Dunaev and I am Data Scientist with high education in medicine.
 | ●Neural Networks | ●NLP              | ●matplotlib | ●Docker     |
 | ●Big Data        | ●NumPy            | ●Matlab     | ●Git-Kaggle |
 
+## :school_satchel: Experience:
+
+# INSPECTRUM CLINIC (April 2023 - Present, 5 months)
+
+Data Science Intern
+
+Developed a recommendation system for medical professionals.
+
+Tasks included Python coding, database analysis, deep learning, and machine learning model training.
+
+Resulted in a model providing fitness ratings and identifying factors hindering work.
+
+Utilized Python, TensorFlow, Keras, Pandas, Numpy, Matplotlib, Seaborn, OpenCV, and Sklearn.
+
+«Resurs-Telecom» / Trock Citi Hospital (September 2018 - Present, 5 years)
+
+# Medical Expert / General Practitioner
+
+Provided primary medical care for acute illnesses, injuries, and poisoning.
+
+Led preventative initiatives to reduce illness, disability, and mortality rates.
+
+## :orange_book: Education:
+
+University of Artificial Intelligence (UIAI), 2023
+
+Data Science, Neural Networks, Machine Learning, and Artificial Intelligence.
+
+Orenburg State Medical Academy, 2018
+
+Postgraduate Education in Oncology.
+
+Orenburg State Medical Academy, 2017
+
+Doctor of Medicine (M.D.) in Therapy.
 
 ## 📫 How to reach me:
 

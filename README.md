@@ -4,26 +4,46 @@ My name is Artem Dunaev and I am Data Scientist with high education in medicine.
 # My Skills 🔭
 
 ● Phython
+
 ● SQL
+
 ● Neural Networks
+
 ● Big Data
+
 ● Deep Learning
+
 ● Machine Learning
+
 ● Natural Language Processing
+
 ● NumPy
+
 ● Pandas
+
 ● seaborn
+
 ● matplotlib
+
 ● Matlab
+
 ● Opencv
+
 ● Linux
+
 ● Docker
+
 ● Git
+
 ● Kaggle
 
+
 # 📫 How to reach me:
+
 💬 [Telegram](https://t.me/Integral_Dunart) - @Integral_Dunart
+
 💬 Gmail - artdun12@gmail.com
+
 💬 [VK](https://vk.com/dunart)
 
 <!--

@@ -17,7 +17,7 @@ My name is Artem Dunaev and I am a data science specialist with a background in 
 
 ## INSPECTRUM CLINIC (April 2023 - Present, 5 months)
 
-Data Science Intern
+### Data Science Intern
 
 Developed a recommendation system for medical professionals.
 
@@ -27,9 +27,9 @@ Resulted in a model providing fitness ratings and identifying factors hindering 
 
 Utilized Python, TensorFlow, Keras, Pandas, Numpy, Matplotlib, Seaborn, OpenCV, and Sklearn.
 
-«Resurs-Telecom» / Trock Citi Hospital (September 2018 - Present, 5 years)
+## «Resurs-Telecom» / Trock Citi Hospital (September 2018 - Present, 5 years)
 
-## Medical Expert / General Practitioner
+### Medical Expert / General Practitioner
 
 Provided primary medical care for acute illnesses, injuries, and poisoning.
 
@@ -37,15 +37,15 @@ Led preventative initiatives to reduce illness, disability, and mortality rates.
 
 # :orange_book: Education :orange_book:
 
-University of Artificial Intelligence (UIAI), 2023
+### University of Artificial Intelligence (UIAI), 2023
 
 Data Science, Neural Networks, Machine Learning, and Artificial Intelligence.
 
-Orenburg State Medical Academy, 2018
+### Orenburg State Medical Academy, 2018
 
 Postgraduate Education in Oncology.
 
-Orenburg State Medical Academy, 2017
+### Orenburg State Medical Academy, 2017
 
 Doctor of Medicine (M.D.) in Therapy.
 

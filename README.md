@@ -3,7 +3,8 @@ My name is Artem Dunaev and I am Data Scientist with high education in medicine.
 
 ## My Skills 🔭
 
-|------------------|-------------------|-------------|-------------|
+| <!-- -->         | <!-- -->          | <!-- -->    | <!-- -->    |
+|:----------------:|:-----------------:|:-----------:|:-----------:|
 | ●Phython         | ●Deep Learning    | ●Pandas     | ●OpenCV     |
 | ●SQL             | ●Machine Learning | ●Seaborn    | ●Linux      |
 | ●Neural Networks | ●NLP              | ●matplotlib | ●Docker     |

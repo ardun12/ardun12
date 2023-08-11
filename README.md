@@ -6,12 +6,12 @@ My name is Artem Dunaev and I am a data science specialist with a background in 
 
 ## :computer: My Skills :computer:
 
-| <!-- -->        | <!-- -->         | <!-- -->   | <!-- -->   |
-|:---------------:|:----------------:|:----------:|:----------:|
-| Phython         | Deep Learning    | Pandas     | OpenCV     |
-| SQL             | Machine Learning | Seaborn    | Linux      |
-| Neural Networks | NLP              | matplotlib | Docker     |
-| Big Data        | NumPy            | Matlab     | Git-Kaggle |
+| <!-- -->        | <!-- -->         | <!-- -->      | <!-- -->       |
+|:---------------:|:----------------:|:-------------:|:--------------:|
+| Phython         | Deep Learning    | Pandas        | OpenCV         |
+| SQL             | Machine Learning | Seaborn       | Linux          |
+| Neural Networks | NLP              | matplotlib    | Docker         |
+| Big Data        | NumPy            | Matlab        | Git-Kaggle     |
 
 # :school_satchel: Experience :school_satchel:
 

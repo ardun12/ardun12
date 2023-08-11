@@ -39,7 +39,7 @@ Utilized Python, TensorFlow, Keras, Pandas, Numpy, Matplotlib, Seaborn, OpenCV, 
 
 [NN for music classification](https://colab.research.google.com/drive/1xqEN3-a0ZmtzOhrZoOmjgp2p1acKRH4d?usp=sharing)
 
-[Object Detection]((https://colab.research.google.com/drive/1sAqqzih1_sgwKGcmtELyBGzIG-mGZyN7?usp=sharing)
+[Object Detection](https://colab.research.google.com/drive/1sAqqzih1_sgwKGcmtELyBGzIG-mGZyN7?usp=sharing)
 
 [Segmentation of apartment renovation images](https://colab.research.google.com/drive/10TG2Uqkj776VG_yiDyFeieVRISwua6at?usp=sharing)
 

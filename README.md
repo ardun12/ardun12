@@ -27,6 +27,30 @@ Resulted in a model providing fitness ratings and identifying factors hindering 
 
 Utilized Python, TensorFlow, Keras, Pandas, Numpy, Matplotlib, Seaborn, OpenCV, and Sklearn.
 
+## Projects (NN - neural network)
+
+[NN for text processing (text classification by authors)](https://colab.research.google.com/drive/19aOQpE6p5hktD-hDFbvhUU89rX47ZFnR?usp=sharing)
+
+[NN for disease classification based on symptoms](https://colab.research.google.com/drive/10joCELLyfMw5Nb7TNbBBmW5a9EkvyDgc?usp=sharing)
+
+[NN for estimating apartment prices based on parameters](https://colab.research.google.com/drive/1RFNbX104Pj7AxzSphOuAZ1bALF8UrKkl?usp=sharing)
+
+[NN for currency price prediction-trading (time series)](https://drive.google.com/file/d/1I_uIPiKIVItyUUWujQ6nYPsG3XXmOrtm/view?usp=drive_link)
+
+[NN for music classification](https://colab.research.google.com/drive/1xqEN3-a0ZmtzOhrZoOmjgp2p1acKRH4d?usp=sharing)
+
+[Object Detection]((https://colab.research.google.com/drive/1sAqqzih1_sgwKGcmtELyBGzIG-mGZyN7?usp=sharing)
+
+[Segmentation of apartment renovation images](https://colab.research.google.com/drive/10TG2Uqkj776VG_yiDyFeieVRISwua6at?usp=sharing)
+
+[Speech recognition (Google API)](https://colab.research.google.com/drive/1yHbM-wgYmUVsEvJmyLSqk6FwjWglmo1P?usp=sharing)
+
+[Variational Autoencoder based on Mnist](https://colab.research.google.com/drive/1LNilA7b_1bbxNXpdpcqwlGgQ7oUIkubh?usp=sharing)
+
+[Genetic algorithms](https://colab.research.google.com/drive/1vPUhD4eU2mpl1csR10d5ADC6QeR3Ljvf?usp=sharing)
+
+[Text generation](https://colab.research.google.com/drive/1tpmHrTrE_iuFEeCynEob1R5M1TC7TfeU?usp=sharing)
+
 ## «Resurs-Telecom» / Trock Citi Hospital (September 2018 - Present, 5 years)
 
 ### Medical Expert / Medicine Doctor

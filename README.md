@@ -73,6 +73,10 @@ Postgraduate Education in Oncology.
 
 Doctor of Medicine (M.D.) in Therapy.
 
+# :eyeglasses: Some Scientific Publications :eyeglasses:
+
+[link](https://drive.google.com/drive/folders/1m71qzg8IOcE6ZFxFG5NWxfd9OS5IvE9b?usp=drive_link)
+
 # 📫 How to reach me 📫
 
 💬 [Telegram](https://t.me/Integral_Dunart) - @Integral_Dunart

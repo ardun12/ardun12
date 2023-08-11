@@ -2,7 +2,7 @@
 
 ## :hospital: Professional Summary :hospital:
 
-My name is Artem Dunaev and I am a data science specialist with a background in medicine, seeking projects that allow me to apply my knowledge and make a significant impact. With 5 years of experience as a medical doctor and recent involvement in various AI-related hackathons, I possess a unique blend of medical expertise and data science skills.
+My name is Artem Dunaev and I am a data science specialist with a background in medicine, seeking projects that allow me to apply my knowledge and make a significant impact. With an experience as a medical doctor and  involvement in various AI-related hackathons and projects, I possess a unique blend of medical expertise and data science skills.
 
 ## :computer: My Skills :computer:
 

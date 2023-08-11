@@ -35,7 +35,7 @@ Provided primary medical care for acute illnesses, injuries, and poisoning.
 
 Led preventative initiatives to reduce illness, disability, and mortality rates.
 
-## :orange_book: Education :orange_book:
+# :orange_book: Education :orange_book:
 
 University of Artificial Intelligence (UIAI), 2023
 
@@ -49,7 +49,7 @@ Orenburg State Medical Academy, 2017
 
 Doctor of Medicine (M.D.) in Therapy.
 
-# 📫 How to reach me:
+# 📫 How to reach me 📫
 
 💬 [Telegram](https://t.me/Integral_Dunart) - @Integral_Dunart
 
@@ -58,7 +58,7 @@ Doctor of Medicine (M.D.) in Therapy.
 💬 [VK](https://vk.com/dunart)
 
 
-# 😄 For some coffee:
+# 😄 For some coffee :coffee:
 
 Tinkoff - 2200 7008 1895 4983
 

@@ -29,7 +29,7 @@ Utilized Python, TensorFlow, Keras, Pandas, Numpy, Matplotlib, Seaborn, OpenCV, 
 
 ## «Resurs-Telecom» / Trock Citi Hospital (September 2018 - Present, 5 years)
 
-### Medical Expert / General Practitioner
+### Medical Expert / Medicine Doctor
 
 Provided primary medical care for acute illnesses, injuries, and poisoning.
 

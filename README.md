@@ -51,7 +51,7 @@ Utilized Python, TensorFlow, Keras, Pandas, Numpy, Matplotlib, Seaborn, OpenCV, 
 
 [Text generation](https://colab.research.google.com/drive/1tpmHrTrE_iuFEeCynEob1R5M1TC7TfeU?usp=sharing)
 
-## «Resurs-Telecom» / Trock Citi Hospital (September 2018 - Present, 5 years)
+## «Resurs-Telecom» / Troick Citi Hospital (September 2018 - Present, 5 years)
 
 ### Medical Expert / Medicine Doctor
 

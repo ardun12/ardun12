@@ -1,50 +1,27 @@
 ### Hi there 👋
 My name is Artem Dunaev and I am Data Scientist with high education in medicine.
 
-# My Skills 🔭
+## My Skills 🔭
 
-● Phython
-
-● SQL
-
-● Neural Networks
-
-● Big Data
-
-● Deep Learning
-
-● Machine Learning
-
-● Natural Language Processing
-
-● NumPy
-
-● Pandas
-
-● seaborn
-
-● matplotlib
-
-● Matlab
-
-● Opencv
-
-● Linux
-
-● Docker
-
-● Git
-
-● Kaggle
+|------------------|-------------------|-------------|-------------|
+| ●Phython         | ●Deep Learning    | ●Pandas     | ●OpenCV     |
+| ●SQL             | ●Machine Learning | ●Seaborn    | ●Linux      |
+| ●Neural Networks | ●NLP              | ●matplotlib | ●Docker     |
+| ●Big Data        | ●NumPy            | ●Matlab     | ●Git-Kaggle |
 
 
-# 📫 How to reach me:
+## 📫 How to reach me:
 
 💬 [Telegram](https://t.me/Integral_Dunart) - @Integral_Dunart
 
 💬 Gmail - artdun12@gmail.com
 
 💬 [VK](https://vk.com/dunart)
+
+
+## 😄 For some coffee:
+
+Tinkoff - 2200 7008 1895 4983
 
 <!--
 **ardun12/ardun12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

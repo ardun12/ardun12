@@ -61,21 +61,25 @@ Led preventative initiatives to reduce illness, disability, and mortality rates.
 
 # :orange_book: Education :orange_book:
 
-### University of Artificial Intelligence (UIAI), 2023
+`University of Artificial Intelligence (UIAI), 2023`
 
 Data Science, Neural Networks, Machine Learning, and Artificial Intelligence.
 
-### Orenburg State Medical Academy, 2018
+`SkyPro, Higher education, 2023`
+
+Data Analyst, SQL, Data Analyst
+
+`Orenburg State Medical Academy, 2018`
 
 Postgraduate Education in Oncology.
 
-### Orenburg State Medical Academy, 2017
+`Orenburg State Medical Academy, 2017`
 
 Doctor of Medicine (M.D.) in Therapy.
 
 # :eyeglasses: Some Scientific Publications :eyeglasses:
 
-[link](https://drive.google.com/drive/folders/1m71qzg8IOcE6ZFxFG5NWxfd9OS5IvE9b?usp=drive_link)
+[link](https://drive.google.com/drive/folders/1m71qzg8IOcE6ZFxFG5NWxfd9OS5IvE9b?usp=drive_link) - there it is
 
 # 📫 How to reach me 📫
 

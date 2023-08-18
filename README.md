@@ -2,7 +2,7 @@
 
 My name is Artem Dunaev and I am a data science specialist with a background in medicine, seeking projects that allow me to apply my knowledge and make a significant impact. With an experience as a medical doctor and  involvement in various AI-related hackathons and projects, I possess a unique blend of medical expertise and data science skills.
 
-You can find my resume [here](https://drive.google.com/file/d/1fV1Rn4OZ6irCJKckmcvvC5lWam1dGK9w/view?usp=drive_link)
+You can find my resume [here](https://drive.google.com/file/d/1_EfWFVFRBQe12C7cNZHICVwvFaPU7ELq/view?usp=drive_link)
 
 ## :computer: My Skills :computer:
 

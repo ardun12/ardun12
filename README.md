@@ -94,6 +94,8 @@ Doctor of Medicine (M.D.) in Therapy.
 
 Tinkoff - 2200 7008 1895 4983
 
+QIWI - +79998921292
+
 <!--
 **ardun12/ardun12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

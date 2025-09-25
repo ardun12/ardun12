@@ -92,8 +92,6 @@ Doctor of Medicine (M.D.) in Therapy.
 
 # 😄 For some coffee :coffee:
 
-Tinkoff - 2200 7008 1895 4983
-
 QIWI - +79998921292
 
 <!--

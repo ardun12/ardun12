@@ -92,7 +92,7 @@ Doctor of Medicine (M.D.) in Therapy.
 
 # 😄 For some coffee :coffee:
 
-QIWI - +79998921292
++79998921292
 
 <!--
 **ardun12/ardun12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
